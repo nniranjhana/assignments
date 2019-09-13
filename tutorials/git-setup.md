@@ -6,6 +6,10 @@ To set up your assignment repository, you will **need a Github account** and als
 
 Go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and download Git.
 
+Or if you're on Ubuntu:
+
+    sudo apt-get install git
+
 ## Setting up Github
 
 If you have not already, [create a Github account](https://github.com). You will need to **share your Github username with the TA** to get an invitation to your assignment repository.
